@@ -14,10 +14,10 @@
  
  # Screen shots
   # main Page
-  ![mainpage]("https://github.com/g-m-b/movies-db/blob/master/mainpage.png")
+  ![mainpage](https://github.com/g-m-b/movies-db/blob/master/mainpage.png)
   # Search
-  ![search]("https://github.com/g-m-b/movies-db/blob/master/search.png")
+  ![search](https://github.com/g-m-b/movies-db/blob/master/search.png)
   # transition
-  ![transition]("https://github.com/g-m-b/movies-db/blob/master/transition.png")
+  ![transition](https://github.com/g-m-b/movies-db/blob/master/transition.png)
   # popup
-  ![popup]("https://github.com/g-m-b/movies-db/blob/master/popup.png")
+  ![popup](https://github.com/g-m-b/movies-db/blob/master/popup.png)
